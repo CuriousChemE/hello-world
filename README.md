@@ -1,2 +1,2 @@
 # hello-world
-learning github
+Editing a readme file and committing the change
